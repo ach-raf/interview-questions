@@ -1,0 +1,28 @@
+Lambda: 
+    En Java, une expression lambda est une forme de syntaxe permettant de simplifier l'implémentation d'une interface fonctionnelle.
+    L’expression lambda fournit l’implémentation d’une interface fonctionnelle 
+    ou dans la programmation fonctionnelle avec l’API Java Stream. 
+Interface fonctionnelle:
+    Une interface qui n’a qu’une seule méthode abstraite est appelée une interface fonctionnelle. 
+    @FunctionalInterface, qui est utilisée pour déclarer une interface comme interface fonctionnelle.
+Java Stream:
+    L’API Stream est utilisée pour traiter des collections d’objets,
+    Un flux(stream) est une séquence d’objets qui prend en charge diverses méthodes qui peuvent être enchaînées pour produire le résultat souhaité.
+ORM (Object Relational Mapping):
+    Les ORM sont des frameworks qui, permettent de créer une correspondance entre un modèle objet et un modèle relationnel de base de données
+hibernate:
+    Hibernate est une solution open source de type ORM qui permet de faciliter le développement de la couche persistance d'une application. 
+    Hibernate permet de représenter une base de données en objets Java et le contraire.
+JPA (Java Persistence API):
+    Est une spécification standard pour les implémentations ORM.
+    //JPA (Java Persistence API) est une spécification Java qui décrit un système de gestion permettant de sauvegarder des objets java dans des tables de bases de données relationnelles sous une forme pratique. 
+ API REST:
+    Une API compatible REST, ou « RESTful », est une interface de programmation d'application qui fait appel à des requêtes HTTP pour obtenir (GET), placer (PUT), publier (POST) et supprimer (DELETE) des données.
+
+angular COmposant:
+    Un composant est une classe, qui contrôle une portion de l’écran. Cette portion de l’écran contrôlée par le composant, on l’appelle une vue.
+    On peut dire que : un composant = une classe + une vue.
+
+@param, @query
+
+angular fomulaire, http client, send data from parent to child,

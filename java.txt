@@ -25,4 +25,8 @@ angular COmposant:
 
 @param, @query
 
-angular fomulaire, http client, send data from parent to child,
+angular fomulaire, http client, send data from parent to child,, angular service
+
+Association types: one-to-one, one-to-many, many-to-one, many-to-many
+
+can we have an implementation od method in an interface => No
